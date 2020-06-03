@@ -2,10 +2,9 @@
 #titulo{
     
     text-align: center;
-    
-    font-size: 25px;
-    background-color: cornflowerblue;
-    
+    padding: 50px;
+    margin-left: 390px;
+     font-size: 25px;
 }
 header{
     background-color: cornflowerblue;
@@ -22,8 +21,9 @@ body{
     text-align: center;
 }
 .boton{
-    display: flex;
     justify-content: center;
+    display: flex;
+    
 }
 h3{
     text-align: center;
@@ -34,5 +34,6 @@ input{
 }
 #foto{
     padding: 7px;
-    margin-left: 1,5cm;
+    margin-left: 5cm;
 }
+
