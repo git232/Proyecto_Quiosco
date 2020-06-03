@@ -2,9 +2,9 @@
 #titulo{
     
     text-align: center;
-    padding: 50px;
-    margin-left: 390px;
-     font-size: 25px;
+    
+    font-size: 25px;
+    background-color: cornflowerblue;
 }
 header{
     background-color: cornflowerblue;
@@ -34,6 +34,6 @@ input{
 }
 #foto{
     padding: 7px;
-    margin-left: 5cm;
+    margin-left: 1,5cm;
 }
 
